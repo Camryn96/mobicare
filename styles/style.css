@@ -1,0 +1,33 @@
+
+*{
+border: 0em;
+padding: 0em;
+margin: 0em;
+background-color: yellow;
+}
+.image {
+	box-sizing: initial;
+	width: 25%;
+	height: 25%;
+	float: left;
+	background-color: yellow;
+	
+} 
+ul {
+	list-style-type: none;
+	margin: 5px;
+	padding: 14.3px;
+	overflow: hidden;
+	background-color: yellow;
+
+}
+li{
+	float: right;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
